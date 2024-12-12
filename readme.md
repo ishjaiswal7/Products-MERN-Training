@@ -1,4 +1,3 @@
 This is a small project based MERN Stack
 
-npm init -y
-npm install express mongoose dotenv
+I created a small API to manage Products.
